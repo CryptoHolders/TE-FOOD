@@ -1,0 +1,22 @@
+.elementor-kit-1509{--e-global-color-primary:#000000;--e-global-color-secondary:#637183;--e-global-color-text:#414141;--e-global-color-accent:#6EC1E4;--e-global-color-5b3027c3:#54595F;--e-global-color-48c93ae7:#7A7A7A;--e-global-color-1d792b83:#61CE70;--e-global-color-1f5c0a27:#4054B2;--e-global-color-6c15ee34:#23A455;--e-global-color-323c4293:#000;--e-global-color-3dfed613:#FFF;--e-global-color-77c5bc97:#020101;--e-global-typography-primary-font-family:"Basic";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Raleway";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Lato";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Maven Pro";--e-global-typography-accent-font-weight:500;}.elementor-kit-1509 h3{line-height:1.2em;}.elementor-kit-1509 h4{line-height:1.1em;}.elementor-kit-1509 img{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1440px;}.e-con{--container-max-width:1440px;}{}h1.heading{display:var(--page-title-display);}.elementor-kit-1509 e-page-transition{background-color:#FFBC7D;}@media(max-width:1329px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-1509 h1{font-size:2.2em;}.elementor-kit-1509 h2{font-size:1.8em;}.elementor-kit-1509 h3{font-size:1.4em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.row .primary-menu-ul .sub-menu li a {
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+}
+
+#epkb-main-page-container.epkb-basic-template .epkb-boxed {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.eckb-article-title span {
+    font-size: 1rem !important;
+}
+
+input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], textarea {
+    width: 100%;
+}
+
+label {
+    display: block !important;
+}/* End custom CSS */
